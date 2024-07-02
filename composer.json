@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=8.2",
+        "rector/rector": "^1.1"
+    }
+}
