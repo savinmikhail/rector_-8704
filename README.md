@@ -8,4 +8,4 @@ Run
 make run
 ```
 
-Expected some action about T_ENUM constant (e.g. warning)
+Expected some action about T_ENUM constant (e.g. warning), cuz it doesn't exist in target PHP version
